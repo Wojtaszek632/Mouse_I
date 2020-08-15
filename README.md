@@ -50,4 +50,4 @@ This particular configuration is finished, hower i plan on using it as a base fo
 Youtube videos, Forbot blog.
 
 ## Contact
-Created by [@Wojciech Mańczak](wojciechmanczak@poczta.onet.pl) - feel free to contact me!
+Created by [@Wojciech Mańczak](https://www.linkedin.com/in/wojciech-ma%C5%84czak-a11b071b2/) - feel free to contact me!
