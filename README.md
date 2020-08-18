@@ -13,7 +13,7 @@ Simple path finding robot, based on arduino and HC-SR04 ultrasonic sensor.
 * [Contact](#contact)
 
 ## General info
-First version of path finding robot, controlled by [Arduino Uno](https://store.arduino.cc/arduino-uno-rev3?queryID=undefined) board. It usues the [HC-SR04](https://www.sainsmart.com/products/ultrasonic-ranging-detector-mod-hc-sr04-distance-sensor) ultrasonic sensor to detect and awoid obstacles and an [L293D](https://www.amazon.com/NDRTJM-MSTL2930-L293D-Stepper-Driver/dp/B008XCGLNM) push-pull driver to controll 2 Brushed DC electric motors. I build and programmed this robot in the first year of my High school, when i started to learn arduino.
+First version of path finding robot that I made in my first year of highschool. It is controlled by [Arduino Uno](https://store.arduino.cc/arduino-uno-rev3?queryID=undefined) board. It usues the [HC-SR04](https://www.sainsmart.com/products/ultrasonic-ranging-detector-mod-hc-sr04-distance-sensor) ultrasonic sensor to detect and awoid obstacles and an [L293D](https://www.amazon.com/NDRTJM-MSTL2930-L293D-Stepper-Driver/dp/B008XCGLNM) push-pull driver to controll 2 Brushed DC electric motors. I build and programmed this robot in the first year of my High school, when i started to learn arduino.
 
 ## Screenshots
 ![Example screenshot](https://i.imgur.com/lP9YxXU.png)
